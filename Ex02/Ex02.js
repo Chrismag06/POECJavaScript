@@ -50,6 +50,8 @@ function Exercice02b(){
     console.log(Mot1)
     console.log(Mot2)
 
+    Mot1.l
+
     console.log(Mot1.charCodeAt(2))
 
     let codeAscii = 0;
